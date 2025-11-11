@@ -1,0 +1,190 @@
+{
+    "numerical": {
+        "Age": {
+            "min": 19.0,
+            "max": 80.0,
+            "default": 45.41640378548896
+        },
+        "Number of Dependents": {
+            "min": 0.0,
+            "max": 9.0,
+            "default": 0.5
+        },
+        "Number of Referrals": {
+            "min": 0.0,
+            "max": 10.0,
+            "default": 1.9952681388012619
+        },
+        "Tenure in Months": {
+            "min": 1.0,
+            "max": 72.0,
+            "default": 33.76498422712934
+        },
+        "Avg Monthly Long Distance Charges": {
+            "min": 0.0,
+            "max": 49.87,
+            "default": 21.686356466876973
+        },
+        "Avg Monthly GB Download": {
+            "min": 0.0,
+            "max": 85.0,
+            "default": 20.968454258675077
+        },
+        "Monthly Charge": {
+            "min": 0.0,
+            "max": 118.65,
+            "default": 63.27279179810725
+        },
+        "Total Charges": {
+            "min": 19.25,
+            "max": 8496.7,
+            "default": 2316.0768138801263
+        },
+        "Total Refunds": {
+            "min": 0.0,
+            "max": 47.02,
+            "default": 1.3393375394321765
+        },
+        "Total Extra Data Charges": {
+            "min": 0.0,
+            "max": 150.0,
+            "default": 6.277602523659306
+        },
+        "Total Long Distance Charges": {
+            "min": 0.0,
+            "max": 3515.92,
+            "default": 762.8735804416403
+        },
+        "Total Revenue": {
+            "min": 21.36,
+            "max": 11979.34,
+            "default": 3083.8886593059938
+        }
+    },
+    "categorical": {
+        "Gender": {
+            "options": [
+                "Female",
+                "Male"
+            ]
+        },
+        "Married": {
+            "options": [
+                "No",
+                "Yes"
+            ]
+        },
+        "Offer": {
+            "options": [
+                "Offer D",
+                "Offer C",
+                "Offer E",
+                "Offer A",
+                "Offer B"
+            ]
+        },
+        "Phone Service": {
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        "Multiple Lines": {
+            "options": [
+                "No",
+                "Yes",
+                "No Phone Service"
+            ]
+        },
+        "Internet Service": {
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        "Internet Type": {
+            "options": [
+                "DSL",
+                "Fiber Optic",
+                "Cable",
+                "No Internet"
+            ]
+        },
+        "Online Security": {
+            "options": [
+                "Yes",
+                "No",
+                "No Internet Service"
+            ]
+        },
+        "Online Backup": {
+            "options": [
+                "No",
+                "Yes",
+                "No Internet Service"
+            ]
+        },
+        "Device Protection Plan": {
+            "options": [
+                "No",
+                "Yes",
+                "No Internet Service"
+            ]
+        },
+        "Premium Tech Support": {
+            "options": [
+                "No",
+                "Yes",
+                "No Internet Service"
+            ]
+        },
+        "Streaming TV": {
+            "options": [
+                "Yes",
+                "No",
+                "No Internet Service"
+            ]
+        },
+        "Streaming Movies": {
+            "options": [
+                "Yes",
+                "No",
+                "No Internet Service"
+            ]
+        },
+        "Streaming Music": {
+            "options": [
+                "Yes",
+                "No",
+                "No Internet Service"
+            ]
+        },
+        "Unlimited Data": {
+            "options": [
+                "Yes",
+                "No Internet Service",
+                "No"
+            ]
+        },
+        "Contract": {
+            "options": [
+                "Month-to-Month",
+                "Two Year",
+                "One Year"
+            ]
+        },
+        "Paperless Billing": {
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        "Payment Method": {
+            "options": [
+                "Bank Withdrawal",
+                "Credit Card",
+                "Mailed Check"
+            ]
+        }
+    }
+}
